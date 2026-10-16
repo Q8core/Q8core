@@ -14,3 +14,5 @@ Q8Core builds apps that work **without an internet connection**: PDF & OCR tools
 **بالعربي:** تطبيقات تعمل بدون إنترنت على أندرويد وويندوز ولينكس وماك، بالعربية والإنجليزية.
 
 </div>
+
+❤️ **Like our apps? [Support Q8Core with a donation](https://q8core.com/donate)** · ادعمنا بتبرّع
